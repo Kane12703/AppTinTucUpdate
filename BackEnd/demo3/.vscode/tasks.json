@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "path": "BackEnd",
+      "problemMatcher": [],
+      "label": "npm: dev - BackEnd",
+      "detail": "nodemon ./bin/www",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

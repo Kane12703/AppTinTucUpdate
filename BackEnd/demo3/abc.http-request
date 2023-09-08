@@ -1,0 +1,11 @@
+{
+  "body": {
+    "content": "",
+    "file": false,
+    "fileSize": false
+  },
+  "headers": {},
+  "method": "POST",
+  "title": "New HTTP Request",
+  "url": "http://localhost:3000/chu-vi?a=1&&b=2&loaiHinh=h%C3%ACnh%20vu%C3%B4ng"
+}
